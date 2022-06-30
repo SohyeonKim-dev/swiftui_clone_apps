@@ -21,3 +21,6 @@ struct Icons {
     static let file = "file-icon"
     static let moderator = "moderator-icon"
 }
+
+
+// struct 단위로 파일 분리! 
