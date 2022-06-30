@@ -19,3 +19,5 @@ struct Event: Identifiable {
         Event(clubName: "NEW MONEY MOGULS", roomName: "Financial Literacy for Developers", time: "20:00"),
     ]
 }
+
+// event 형 배열을 데이터로 갖는 Event 구조체.? 

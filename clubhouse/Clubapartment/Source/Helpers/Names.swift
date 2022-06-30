@@ -15,3 +15,5 @@ struct Names {
         "Stan Mbomgo", "Elsie Fonka", "Maire Louise"
     ]
 }
+
+// Names 보다는 NameList or NameArray 이게 더 좋지 않나?

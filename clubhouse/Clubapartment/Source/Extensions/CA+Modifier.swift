@@ -24,3 +24,5 @@ extension Image {
         self.resizable().frame(width: 30, height: 30)
     }
 }
+
+// icon style에 대한 modifier

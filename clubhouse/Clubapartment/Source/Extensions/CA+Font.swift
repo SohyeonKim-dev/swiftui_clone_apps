@@ -38,3 +38,10 @@ private extension Font {
         Font.custom(weight.rawValue, size: size)
     }
 }
+
+/*
+ 
+ extension 이란?
+ 
+ 
+ */
